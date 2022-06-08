@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Null3000!
+Null3000
 
   
   <h2 align="center">
@@ -7,7 +7,8 @@ Hi, I'm Null3000!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Null3000.;I'm+a+student+in+California.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 
-
+## Contribution Snake 
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 ## My Tech Stack and Tools
 
@@ -40,7 +41,7 @@ Hi, I'm Null3000!
 <p>
 	
 ![icons8-git](https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg)
-![icons8-github-48](https://user-images.githubusercontent.com/76852813/172722169-0eea01dd-c791-4151-95dc-1adfedac59c5.png)
+![icons8-github](https://user-images.githubusercontent.com/76852813/172732353-d8b662eb-8f1c-453a-82f4-00132b440aaa.svg)
 ![icons8-intellij-idea](https://user-images.githubusercontent.com/76852813/172722224-2df3bb34-d501-4daf-aa6d-af8c18335202.svg)
 ![icons8-pycharm](https://user-images.githubusercontent.com/76852813/172722267-f6f30163-ec39-4d98-a106-7c91394f4c44.svg)
 ![icons8-webstorm](https://user-images.githubusercontent.com/76852813/172722695-28a7df43-15fc-4816-b879-630bd4007526.svg)
@@ -51,12 +52,13 @@ Hi, I'm Null3000!
 
 
 
-### Cloud
+### MISC
 
 <p>
 	
 ![icons8-heroku](https://user-images.githubusercontent.com/76852813/172721998-708f82d2-e288-462e-a2fd-2ee471036151.svg)
-   
+![icons8-raspberry-pi](https://user-images.githubusercontent.com/76852813/172732112-5119f3f5-16f0-4ddb-aa32-1926cb9f56a8.svg)
+
 
 
 
@@ -78,6 +80,7 @@ Hi, I'm Null3000!
 	
 ![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
 
+###### Some icons courtesy of [icons8](https://icons8.com/)
 
 
 
