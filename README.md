@@ -12,7 +12,7 @@ Null3000
 
 ## My Tech Stack and Tools
 
-### Programming Languages
+### Languages
 
 <p>
   
@@ -21,13 +21,13 @@ Null3000
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 ![icons8-javascript](https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg)
-![icons8-java](https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg)
 ![icons8-python](https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg)
 <img width="48" alt="Processing 2021 logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/64px-Processing_2021_logo.svg.png"></a>
 
 
 
-### Frameworks and Libraries
+
+### Frameworks/Libraries
 
 <p>
 
@@ -36,7 +36,7 @@ Null3000
 ![1696888_48x48](https://user-images.githubusercontent.com/76852813/172723432-50ba3455-48c4-4afd-8326-1ddf54c39833.png)
 ![discord_1_48x48](https://user-images.githubusercontent.com/76852813/172723444-1c9a926d-802f-4ebe-aab6-bd6a117c6eba.png)
 
-### Software
+### Software/Tools
 
 <p>
 	
@@ -48,20 +48,10 @@ Null3000
 ![icons8-visual-studio-code-2019](https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg)
 ![icons8-stack-overflow](https://user-images.githubusercontent.com/76852813/172722286-8f3ffc2b-593a-4670-9e9f-c77154f6763c.svg)
 ![icons8-bash](https://user-images.githubusercontent.com/76852813/172722833-c1dafe34-7340-4220-a115-81dce56b1746.svg)
-
-
-
-
-### MISC
-
-<p>
-	
 ![icons8-heroku](https://user-images.githubusercontent.com/76852813/172721998-708f82d2-e288-462e-a2fd-2ee471036151.svg)
 ![icons8-raspberry-pi](https://user-images.githubusercontent.com/76852813/172732112-5119f3f5-16f0-4ddb-aa32-1926cb9f56a8.svg)
-
-
-
-
+![icons8-nodejs](https://user-images.githubusercontent.com/76852813/173479323-2a10b69e-2124-4dfd-be9e-9b66a5af16bd.svg)
+![icons8-postman-api](https://user-images.githubusercontent.com/76852813/173478980-aed7444e-be84-40f9-be4e-f78bc3ba6ad0.svg)
 
 	
 ## GitHub Stats
