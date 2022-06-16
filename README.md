@@ -67,7 +67,6 @@ Null3000
 |                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=null3000&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null3000&layout=compact&langs_count=8&theme=algolia)|
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=null3000)](https://github.com/anuraghazra/github-readme-stats)
 	
 ![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
 
