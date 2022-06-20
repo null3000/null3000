@@ -55,7 +55,8 @@ Null3000
 
 	
 ## GitHub Stats
-
+<details style="cursor: pointer;" open>
+	<summary>GitHub Stats</summary>
 
 |                                                                     My Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -64,13 +65,24 @@ Null3000
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=null3000&theme=algolia)](https://git.io/streak-stats) |
     
 
+
+
 |                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=null3000&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null3000&layout=compact&langs_count=8&theme=algolia)|
+
+</details>
 	
 ![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
+	
+
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
 
-
+<details style="cursor: pointer;" closed>
+	<summary>Contact Me</summary>
+	discord: null3000#9828
+	
+</details>
+	
 
