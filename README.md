@@ -73,16 +73,18 @@ Null3000
 
 </details>
 	
+<details style="cursor: pointer;" closed>
+	<summary>Contact Me</summary>
+	discord: null3000#9828
+	
+</details>
+	
 ![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
 	
 
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
 
-<details style="cursor: pointer;" closed>
-	<summary>Contact Me</summary>
-	discord: null3000#9828
-	
-</details>
+
 	
 
