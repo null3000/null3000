@@ -1,6 +1,3 @@
-<h1 align="center">
-Null3000
-
   
   <h2 align="center">
     
